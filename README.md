@@ -2,6 +2,8 @@
 
 Favicon generator for the evdev.me website.
 
+![Current Logo](icon.svg)
+
 ## Usage
 
 To generate favico files from `icon.svg`
